@@ -9,7 +9,7 @@
 <sub>访问[学院网站](http://laravelacademy.org)给我打声招呼吧！</sub>
 
 
-## 🚀 简介
+## 🚀 基础入门
 
 ![](https://i.imgur.com/OZUOUtI.png)
 
