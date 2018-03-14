@@ -6,9 +6,7 @@
 
 ![split](https://i.imgur.com/QgVXt8U.png)
 
-![split](https://i.imgur.com/QgVXt8U.png)
-
-<sub>访问[学院网站](http://laravelacademy.org)打声招呼吧！</sub>
+<sub>访问[学院网站](http://laravelacademy.org)给我打声招呼吧！</sub>
 
 
 ## 🚀 简介
